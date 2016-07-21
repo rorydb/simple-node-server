@@ -1,0 +1,16 @@
+{
+  "name": "static-node-server",
+  "version": "1.0.0",
+  "description": "A simple server using express JS to serve static html files",
+  "main": "http_server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
